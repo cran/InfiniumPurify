@@ -1,0 +1,17 @@
+bbd0a2aa12fc63334108f6faebad2f90 *DESCRIPTION
+9c5d7c5a6df0b3ade207a0f1dfc44444 *NAMESPACE
+d4502461532275e729c38704dd13ebc1 *R/InfiniumClust.R
+2490612a95c03e2b5114bef29924b291 *R/InfiniumDMC.R
+8ec9c3f6fd1847ac0ff279b67975448d *R/InfiniumPurify.R
+eb1f3c4c73c6fee154605d358883160c *R/getPurity.R
+344854066c887cf2026bbe8af82bc056 *data/abbr.RData
+a0c4996500aa09b75399d5ff37351710 *data/beta.emp.RData
+ea0bf3b12cbaf60947832434c64f94a2 *data/iDMC.RData
+4a93e740ae4e3f466f827b08eb21ef02 *man/CancerTypeAbbr.Rd
+e938da4dfb27ebf3e70435c11c17ddfa *man/InfiniumClust.Rd
+d08a9bfa5c10008bcf47dd78d802c39c *man/InfiniumDMC.Rd
+70c45e0c83c6df9a3c4c8aed4f094c03 *man/InfiniumPurify.Rd
+fadeeeb34c522530d344d686f781792c *man/abbr.Rd
+b33fa169591e7c543f00f2461a9aea5b *man/beta.emp.Rd
+80debc23beec3a475a63ed4e81d8856e *man/getPurity.Rd
+abbba763c9b081de2053673ffb503488 *man/iDMC.Rd
